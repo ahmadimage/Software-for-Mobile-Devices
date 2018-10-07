@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="Name">Farukh Jamal L14-4162</string>
+    <string name="Button1">Relative_Layout</string>
+    <string name="Button2">Constraint_Layout</string>
+    <string name="Register">Register</string>
+    <string name="Terms">Terms And Condtions</string>
+    <string name="Home">Home</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+</resources>
